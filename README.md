@@ -21,3 +21,9 @@ This repository contains my Diwali independent learning assignment, "The Digital
 Every mission has its own folder with its own README. Each mission was
 completed and committed separately, so the commit history shows my progress
 step by step.
+
+## My Learning
+
+- How Terminal commands work.
+- How Git saves versions of my work.
+- How binary numbers work.
