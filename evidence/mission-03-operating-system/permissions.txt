@@ -1,0 +1,4 @@
+total 16
+-rw-r--r--@ 1 [redacted]  staff  5180 Nov 15 22:47 README.md
+drwxr-xr-x@ 4 [redacted]  staff   128 Nov 15 22:41 practice-folder
+drwxr-xr-x@ 4 [redacted]  staff   128 Nov 15 22:43 terminal-practice
